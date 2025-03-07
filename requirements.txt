@@ -1,0 +1,7 @@
+gradio
+torch
+numpy
+pillow
+matplotlib
+fastai
+scikit-image

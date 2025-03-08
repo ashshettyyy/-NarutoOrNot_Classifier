@@ -5,7 +5,7 @@ colorFrom: pink
 colorTo: green
 sdk: gradio
 sdk_version: 5.20.0
-app_file: app.py
+app_file: appnaruto.py
 pinned: false
 license: apache-2.0
 ---

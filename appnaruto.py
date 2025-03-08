@@ -47,8 +47,8 @@ def predict_image(img):
     
     # Return results
     return {
-        "Naruto": float(probs[1]),  # Adjust indices based on your classes
-        "Not Naruto": float(probs[0])
+        "Naruto": float(probs[0]),  # Adjust indices based on your classes
+        "Not Naruto": float(probs[1])
     }
 
 # Right before launching the interface

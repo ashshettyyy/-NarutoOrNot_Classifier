@@ -19,10 +19,10 @@ Effective deployment workflows combining different development environments
 
 ## Technologies Used
 
-FastAI
-PyTorch
-Kaggle (for model training)
-Gradio (for UI)
-Hugging Face Spaces (for deployment)
-DuckDuckGo Search API (for data collection)
-Visual Studio Code (for development)
+- FastAI
+- PyTorch
+- Kaggle (for model training)
+- Gradio (for UI)
+- Hugging Face Spaces (for deployment)
+- DuckDuckGo Search API (for data collection)
+- Visual Studio Code (for development)
